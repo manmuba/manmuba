@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 - 🔭 I’m currently working on Django Rest Framework, Django, React, Nextjs and MERN
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Work
